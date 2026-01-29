@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋, I'm Keval Lad
 
-<!--
-**kevallad02/kevallad02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | React.js | React Native | Flutter Learner  
+🔐 Cybersecurity Enthusiast (Learning & Exploring)  
+📍 Surat, India  
 
-Here are some ideas to get you started:
+I'm a passionate frontend developer who loves building clean, responsive, and user-friendly web & mobile applications.  
+Alongside development, I’m deeply interested in **Cybersecurity** and continuously learning how to build **secure, scalable systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Working on **React & React Native projects**
+- 🌱 Learning **Flutter** for Android & iOS development
+- 🔐 Actively learning **Cybersecurity fundamentals**
+- 💼 Interested in **Frontend / Full-Stack / Security-aware roles**
+- 💡 I enjoy converting designs into pixel-perfect UI
+- ⚡ Passionate about **secure application development**
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- React Native
+- Tailwind CSS
+- Bootstrap
+
+### Backend & Tools
+- Node.js
+- Express.js
+- MySQL / PostgreSQL
+- Firebase
+- Git & GitHub
+
+### Mobile
+- React Native
+- Flutter (Learning 🚧)
+
+### Cybersecurity (Learning 🔐)
+- Web application security basics
+- Authentication & authorization
+- Secure API practices
+- Security best practices
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Live Portfolio:**  
+👉 https://portfolio-keval-lad.vercel.app/
+
+---
+
+## 📈 GitHub Stats
+
+![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevallad02&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevallad02&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://portfolio-keval-lad.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/keval-lad-1501b3192  
+- 📧 Email: kevallad2002@gmail.com  
+
+---
+
+⭐ If you like my work, feel free to star ⭐ my repositories!

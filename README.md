@@ -55,14 +55,6 @@ Alongside development, I’m deeply interested in **Cybersecurity** and continuo
 
 ---
 
-## 📈 GitHub Stats
-
-![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevallad02&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevallad02&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://portfolio-keval-lad.vercel.app/

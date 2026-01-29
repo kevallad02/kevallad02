@@ -4,8 +4,8 @@
 🔐 Cybersecurity Enthusiast (Learning & Exploring)  
 📍 Surat, India  
 
-I'm a passionate frontend developer who loves building clean, responsive, and user-friendly web & mobile applications.  
-Alongside development, I’m deeply interested in **Cybersecurity** and continuously learning how to build **secure, scalable systems**.
+I'm a passionate frontend developer focused on building clean, scalable, and secure web & mobile applications.  
+Alongside development, I’m deeply interested in **Cybersecurity** and applying secure practices in real-world products.
 
 ---
 
@@ -16,7 +16,7 @@ Alongside development, I’m deeply interested in **Cybersecurity** and continuo
 - 🔐 Actively learning **Cybersecurity fundamentals**
 - 💼 Interested in **Frontend / Full-Stack / Security-aware roles**
 - 💡 I enjoy converting designs into pixel-perfect UI
-- ⚡ Passionate about **secure application development**
+- ⚡ Passionate about **secure & performance-focused applications**
 
 ---
 
@@ -45,6 +45,23 @@ Alongside development, I’m deeply interested in **Cybersecurity** and continuo
 - Authentication & authorization
 - Secure API practices
 - Security best practices
+
+---
+
+## 🚧 Currently Working On
+
+### 🌐 **TheSiteCraft**
+🔗 https://thesitecraft.com
+
+**TheSiteCraft** is a web-based platform focused on building modern, scalable, and user-friendly digital solutions.  
+I am actively involved in frontend development, UI/UX improvements, and implementing performance-optimized and secure features.
+
+**My contributions include:**
+- Developing responsive UI using **React.js**
+- Improving user experience and layout consistency
+- Integrating APIs and handling frontend logic
+- Applying **security-aware development practices**
+- Ensuring cross-browser and mobile compatibility
 
 ---
 

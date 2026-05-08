@@ -68,13 +68,12 @@ I am actively involved in frontend development, UI/UX improvements, and implemen
 ## 🌐 Portfolio
 
 🔗 **Live Portfolio:**  
-👉 https://portfolio-keval-lad.vercel.app/
-
+👉 https://www.keval.site
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://portfolio-keval-lad.vercel.app/
+- 🌐 Portfolio: https://www.keval.site/
 - 💼 LinkedIn: https://www.linkedin.com/in/keval-lad-1501b3192  
 - 📧 Email: kevallad2002@gmail.com  
 

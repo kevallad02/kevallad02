@@ -1,6 +1,6 @@
 # Hi 👋, I'm Keval Lad
 
-🚀 Full-Stack Software Engineer | React | Next.js | TypeScript | Node.js | PostgreSQL | AI-assisted development
+🚀 Full-Stack Software Engineer | React | Next.js | TypeScript | Node.js | PostgreSQL | AI-assisted development    
 🔐 Cybersecurity Enthusiast (Learning & Exploring)  
 📍 Surat, India  
 

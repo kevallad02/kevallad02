@@ -1,6 +1,6 @@
 # Hi 👋, I'm Keval Lad
 
-🚀 Frontend Developer | React.js | React Native | Flutter Learner  
+🚀 Full-Stack Software Engineer | React | Next.js | TypeScript | Node.js | PostgreSQL | AI-assisted development
 🔐 Cybersecurity Enthusiast (Learning & Exploring)  
 📍 Surat, India  
 
